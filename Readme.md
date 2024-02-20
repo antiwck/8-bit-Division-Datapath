@@ -48,7 +48,6 @@ The clock is set at 5ns for low and high giving a total cycle duty of 10ns.<br /
   <img src="Sources/3. Result 1.jpg"/><br />
   Result computation 1
 </p>
-<br />
 First computation:<br />
 Dividend  : 0000 0111 (7) <br />
 Divisor   : 0000 0010 (2) <br />
@@ -61,7 +60,6 @@ Remainder : 0000 0001 (1) <br />
   <img src="Sources/4. Result 2.jpg"/><br />
   Result computation 2
 </p>
-<br />
 Second computation:<br />
 Dividend  : 0000 0010 (2) <br />
 Divisor   : 0000 0010 (2) <br />
@@ -74,7 +72,6 @@ Remainder : 0000 0000 (0) <br />
   <img src="Sources/5. Result 3.jpg"/><br />
   Result computation 3
 </p>
-<br />
 Third computation:<br />
 Dividend  : 0000 1000 (8) <br />
 Divisor   : 0000 1010 (10) <br />
@@ -87,7 +84,6 @@ Remainder : 0000 1000 (8) <br />
   <img src="Sources/6. Result 4.jpg"/><br />
   Result computation 4
 </p>
-<br />
 Fourth computation:<br />
 Dividend  : 0010 0000 (32) <br />
 Divisor   : 0000 0100 (4) <br />
@@ -100,7 +96,6 @@ Remainder : 0000 0000 (0) <br />
   <img src="Sources/7. Result 5.jpg"/><br />
   Result computation 5
 </p>
-<br />
 Fifth computation:<br />
 Dividend  : 0000 0111 (66) <br />
 Divisor   : 0000 0010 (5) <br />
