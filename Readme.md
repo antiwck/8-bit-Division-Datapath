@@ -54,6 +54,7 @@ Dividend  : 0000 0111 (7) <br />
 Divisor   : 0000 0010 (2) <br />
 Quotient  : 0000 0011 (3) <br />
 Remainder : 0000 0001 (1) <br />
+<br />
 
 <br />
 <p align="center">
