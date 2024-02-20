@@ -53,6 +53,7 @@ Dividend  : 0000 0111 (7) <br />
 Divisor   : 0000 0010 (2) <br />
 Quotient  : 0000 0011 (3) <br />
 Remainder : 0000 0001 (1) <br />
+Result = 7 / 2 = 3 with remainder 1 <br />
 <br />
 
 <br />
@@ -65,6 +66,7 @@ Dividend  : 0000 0010 (2) <br />
 Divisor   : 0000 0010 (2) <br />
 Quotient  : 0000 0001 (1) <br />
 Remainder : 0000 0000 (0) <br />
+Result = 2 / 2 = 1 with remainder 0 <br />
 <br />
 
 <br />
@@ -77,6 +79,7 @@ Dividend  : 0000 1000 (8) <br />
 Divisor   : 0000 1010 (10) <br />
 Quotient  : 0000 0000 (0) <br />
 Remainder : 0000 1000 (8) <br />
+Result = 8 / 10 = 0 with remainder 8 <br />
 <br />
 
 <br />
@@ -89,6 +92,7 @@ Dividend  : 0010 0000 (32) <br />
 Divisor   : 0000 0100 (4) <br />
 Quotient  : 0000 1000 (8) <br />
 Remainder : 0000 0000 (0) <br />
+Result = 32 / 4 = 8 with remainder 0 <br />
 <br />
 
 <br />
@@ -101,4 +105,5 @@ Dividend  : 0000 0111 (66) <br />
 Divisor   : 0000 0010 (5) <br />
 Quotient  : 1000 0101 (13) <br />
 Remainder : 0000 0001 (1) <br />
+Result = 66 / 5 = 13 with remainder 1 <br />
 <br />
