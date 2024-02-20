@@ -39,7 +39,7 @@ The clock is set at 5ns for low and high giving a total cycle duty of 10ns.<br /
 
 <br />
 <p align="center">
-  <img src="Sources/1. Datapath Design.jpg"><br />
+  <img src="Sources/1. Circuit Design.jpg"><br />
   Datapath Design
 </p>
 
