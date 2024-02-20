@@ -3,7 +3,7 @@
 
 The program is compiled in Intel Quartus Prime and run under the testbench to perform the functional computation.
 The 8-bit division takes two 8-bit number in binary and divide the dividend by divisor to compute quotient and remainder.
-The datapath consists of an 8-bit registers, one 17-bit shifter registers, 8-bit adder and control.
+The datapath consists of an 8-bit registers, a 17-bit shifter registers, an 8-bit adder and a control block.
 <br /><br />
 
 The algorithm of the datapath is as below: <br />
